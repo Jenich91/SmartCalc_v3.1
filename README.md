@@ -6,7 +6,7 @@
 Запуск: make open
 Удаление: uninstall
 
-<img alt="demo1" src="images/Снимок экрана 2023-10-09 в 16.04.14.png.gif" />
-<img alt="demo1" src="images/Снимок экрана 2023-10-09 в 16.08.23.png.gif" />
-<img alt="demo1" src="images/Снимок экрана 2023-10-09 в 16.08.25.png.gif" />
-<img alt="demo1" src="images/Снимок экрана 2023-10-09 в 16.10.14.png.gif" />
+<img alt="demo1" src="images/1.png" />
+<img alt="demo1" src="images/2.png" />
+<img alt="demo1" src="images/3.png" />
+<img alt="demo1" src="images/4.png" />
